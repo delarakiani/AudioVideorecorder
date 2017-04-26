@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
-        "source": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi/controller_stop.png",
-        "source": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/src/main/res/drawable-xxhdpi/controller_stop.png"
+        "merged": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\controller_stop.png",
+        "source": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\src\\main\\res\\drawable-xxhdpi\\controller_stop.png"
     },
     {
-        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi/controller_record.png",
-        "source": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/src/main/res/drawable-xxhdpi/controller_record.png"
+        "merged": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\controller_record.png",
+        "source": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\src\\main\\res\\drawable-xxhdpi\\controller_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\controller_record.png",
+        "source": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\src\\main\\res\\drawable-xxhdpi\\controller_record.png"
+    },
+    {
+        "merged": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\controller_stop.png",
+        "source": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\src\\main\\res\\drawable-xxhdpi\\controller_stop.png"
     }
 ]

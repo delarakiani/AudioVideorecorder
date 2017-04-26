@@ -1,6 +1,86 @@
 [
     {
-        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
-        "source": "/Users/delarakiani/.android/build-cache/08b621caa92489595e58b4b8c2d1e2dc34c9305e/output/res/color/abc_search_url_text_holo.xml"
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\delarakiani\\.android\\build-cache\\08b621caa92489595e58b4b8c2d1e2dc34c9305e\\output\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Amin\\.android\\build-cache\\af2be4abefc8c7965c4671125e642c7949cf423c\\output\\res\\color\\switch_thumb_material_light.xml"
     }
 ]

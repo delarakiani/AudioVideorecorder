@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,37 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "C:\\Users\\delarakiani\\AndroidStudioProjects\\recorder-master\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
                         "startOffset": 305,
                         "endColumn": 57,
                         "endOffset": 358
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Amin\\AndroidStudioProjects\\AudioVideorecorder\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 57,
+                        "endOffset": 365
                     }
                 }
             }
