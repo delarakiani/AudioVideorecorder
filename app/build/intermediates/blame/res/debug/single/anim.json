@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/delarakiani/.android/build-cache/08b621caa92489595e58b4b8c2d1e2dc34c9305e/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/delarakiani/.android/build-cache/08b621caa92489595e58b4b8c2d1e2dc34c9305e/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/delarakiani/.android/build-cache/08b621caa92489595e58b4b8c2d1e2dc34c9305e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/delarakiani/.android/build-cache/08b621caa92489595e58b4b8c2d1e2dc34c9305e/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/delarakiani/.android/build-cache/08b621caa92489595e58b4b8c2d1e2dc34c9305e/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/delarakiani/AndroidStudioProjects/recorder-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/delarakiani/.android/build-cache/08b621caa92489595e58b4b8c2d1e2dc34c9305e/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
